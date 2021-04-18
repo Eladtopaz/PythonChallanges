@@ -39,3 +39,5 @@ def dechiper2(s):
 
 # Apply to the url
 dechiper2("map")
+
+# Solution: ocr. url: http://www.pythonchallenge.com/pc/def/ocr.html
